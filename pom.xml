@@ -14,7 +14,6 @@
 	<name>apiregistro2022</name>
 	<description>Api Rest Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
